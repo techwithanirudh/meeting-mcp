@@ -1,7 +1,7 @@
 {
   "rewrites": [{ "source": "/(.+)", "destination": "/mcp" }],
   "functions": {
-    "src/index.ts": {
+    "api/index.ts": {
       "maxDuration": 60
     }
   }
